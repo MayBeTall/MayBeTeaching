@@ -18,3 +18,4 @@ Push the changes to *your* branch, *not* **master**.
 
 # Learners
 *  [MayBeTall](https://github.com/MayBeTall)
+*  [I'ma Ready](http://thisisn'talink.com)
