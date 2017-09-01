@@ -1,7 +1,7 @@
 # Lesson 1 - GitHub
 ## Tasks
 ### Task 1 - Fork this repository
-![](https://github.com/MayBeTall/MayBeTeaching/blob/master/Lesson%201%20-%20GitHub/gifs/fork.gif?raw=true)
+[Here's a handy gif.](https://github.com/MayBeTall/MayBeTeaching/blob/master/Lesson%201%20-%20GitHub/gifs/fork.gif?raw=true)
 ### Task 2 - Clone your forked repository
 ### Task 3 - Add yourself to the list of learners below
 While your at it, how about you add a link to your GitHub account? [This may help.](https://guides.github.com/features/mastering-markdown/)
