@@ -5,9 +5,6 @@ Woah, you made it. A cool about GitHub is that each folder in a repository can h
 ## Basic Git Terms
 This entire lesson plan depends on you being able to submit **Pull Requests** to this repository. In order to do that you're going to need to know a basic few terms.
 
-### Fork
-This repository is mine. I control it. In order to make changes to it you are going to have to **fork** it. A fork is when you take a repository and make your own version, that you control. From there you can make **commits** to your own version of the repository.
-
 ### Clone
 Cloning a repository is simply taking a repository and downloading it *through Git*. This can be done through the GitHub desktop app. This puts all the files on your computer.
 
@@ -20,8 +17,11 @@ Commits may hold change, but **pushes** are what bring change. A **push** publis
 ### Pull
 A **pull** is the act of downloading the latest **commits** from a repository, updating your cloned repository to match GitHub's.
 
+### Branch
+A branch is a like a group of commits. A branch holds a bunch of commits and keeps them separated from the rest of the branches. You can **merge** branches later. For our purposes, I will control the **master** branch and you will make a branch of your own to make changes to. You'll then make a **pull request** to merge your branch into the **master** branch.
+
 ### Pull Request
-A **pull request** is when you request that a repository owner **pull** the **commits** from *your* **forked** repository into *their* repository. This is how you're going to submit your changes to me.
+A **pull request** is when you request that a branch be merged into another branch. In this case, you'd be requesting that your branch be merged into **master**. At this point I can review your changes and make comments and suggestions.
 
 ## Next steps
 # Tasks
