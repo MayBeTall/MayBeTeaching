@@ -6,7 +6,7 @@ Woah, you made it. A cool about GitHub is that each folder in a repository can h
 This entire lesson plan depends on you being able to submit **Pull Requests** to this repository. In order to do that you're going to need to know a basic few terms.
 
 ### Commit
-A commit is a change, or a bunch of changes, bundled into a nice package. It contains only the changes you made. The first part of submitting a **pull request** is creating a commit, or multiple commits.
+A commit is a change, or a bunch of changes, bundled into a nice package. It contains only the changes you made. For example, I added this example in a commit. The first part of submitting a **pull request** is creating a commit, or multiple commits.
 
 ### Pull Request
 
