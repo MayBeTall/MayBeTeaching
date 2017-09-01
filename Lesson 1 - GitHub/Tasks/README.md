@@ -1,4 +1,7 @@
 # Lesson 1 - GitHub
+## Video
+https://youtu.be/Xp5l7c-kr4s
+
 ## Tasks
 1. Clone the repository.
 2. Create a new branch
