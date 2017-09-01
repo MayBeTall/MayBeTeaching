@@ -22,3 +22,7 @@ A **pull** is the act of downloading the latest **commits** from a repository, u
 
 ### Pull Request
 A **pull request** is when you request that a repository owner **pull** the **commits** from *your* **forked** repository into *their* repository. This is how you're going to submit your changes to me.
+
+## Next steps
+# Tasks
+Each lesson will have tasks. Navigate to the Tasks folder and read the README to continue.
